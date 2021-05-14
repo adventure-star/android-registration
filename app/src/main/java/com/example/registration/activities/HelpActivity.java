@@ -26,8 +26,6 @@ public class HelpActivity extends AppCompatActivity {
 
     ProgressDialog pd;
 
-    TextView textview;
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
