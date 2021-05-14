@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerheight">64dp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="titlepaddingy">10dp</dimen>
+    <dimen name="okbuttonradius">6dp</dimen>
+    <dimen name="helptext">16sp</dimen>
+    <dimen name="normal">10dp</dimen>
+    <dimen name="small">5dp</dimen>
+</resources>
