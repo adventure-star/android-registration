@@ -1,3 +1,4 @@
+# Please Read!
 # The functions of this app.
 
 ## In url input screen, there are menu options. you can test it.
