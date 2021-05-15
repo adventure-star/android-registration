@@ -90,8 +90,11 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             case R.id.settings:
                 startActivity(new Intent(MainActivity.this, SettingsActivity.class));
+                break;
+
             case R.id.help:
                 startActivity(new Intent(MainActivity.this, HelpActivity.class));
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
